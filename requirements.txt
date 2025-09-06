@@ -1,0 +1,7 @@
+tensorflow
+keras
+numpy
+matplotlib
+scikit-learn
+opencv-python
+deeplake<4
